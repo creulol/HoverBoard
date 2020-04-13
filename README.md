@@ -1,3 +1,3 @@
-Hover Board simples que fiz em época de estudo usando JQuery
+Simple Hover Board I made at the time of study using JQuery
 
-Para teste basta fazer o download, jogar os três arquivos em uma pasta no desktop e então rodar o index.html, sem segredos!
+For testing just download, throw the three files in a folder on the desktop and then run index.html, no secrets!
